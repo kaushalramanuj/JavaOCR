@@ -11,7 +11,7 @@ public class OCRGuiApp extends JFrame {
     private JTextField filePathField;
     private JTextArea resultArea;
     private File selectedFile;
-    private final String apiKey = "K84263010888957";
+    private final String apiKey = "";
 
     public OCRGuiApp() {
         setTitle("OCR Image Text Extractor");
